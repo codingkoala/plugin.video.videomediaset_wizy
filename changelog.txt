@@ -1,4 +1,4 @@
-[B]1.2.1 wizy mod[/B]
+[B]1.2.1w1[/B]
 - fixed the addon after website changes
 
 [B]1.2.1[/B]

@@ -22,7 +22,7 @@ class Mediaset(rutils.RUtils):
         subparts=container.find_all('section')
         elements = []
         for subpart in subparts:
-        	name=subpart.find('h2')
+          name=subpart.find('h2', class_="title")
           if name and name.text.strip():
             elements.append({'title': name.text.strip(), 'url': url })
         return elements
@@ -42,7 +42,7 @@ class Mediaset(rutils.RUtils):
         subparts=container.find_all('section')
         elements = []
         for subpart in subparts:
-        	name=subpart.find('h2')
+          name=subpart.find('h2')
           if name and name.text.strip() == title:
             slider=subpart.find("div", class_="slider")
             if slider:
