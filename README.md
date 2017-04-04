@@ -20,7 +20,7 @@ I updated it after a major site change.
 * [Kodi Official Page](http://addons.kodi.tv/show/plugin.video.videomediaset/)
 
 ### Latest release
-Manual install: [Download ZIP](https://github.com/phate89/plugin.video.videomediaset/releases)
+Manual install: [Download ZIP](https://github.com/codingkoala/plugin.video.videomediaset/releases)
 Require: [script.module.phate89 v1.0.1](https://github.com/phate89/script.module.phate89/releases/download/1.0.1/script.module.phate89.v1.0.1.zip)
 
 ### Thanks
